@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "api-gateway" },
+    { "path": "frontend" },
+    { "path": "services" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.git": true
+    }
+  }
+}
